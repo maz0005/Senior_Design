@@ -1,3 +1,10 @@
+# authors: Marco Zuniga, Joe Driscoll, Matthew Cather
+# Brief:
+# Based off a certain increase in acceleration from a 
+# SparkFun IMU Breakout - MPU-9250 (placed in pool),
+# the following code will send an alert to devices synchronized
+# with a specific pushetta channel.
+
 import sys
 import time 
 
